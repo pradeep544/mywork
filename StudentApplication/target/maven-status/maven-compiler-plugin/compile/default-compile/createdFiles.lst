@@ -1,0 +1,7 @@
+service/StudentDetailsServiceImpl.class
+service/StudentDetailsService.class
+repository/StudentRepository.class
+model/Student.class
+repository/StudentRepositoryImpl.class
+driver/ApplicationDriver.class
+aspect/LoggingAdvice.class
